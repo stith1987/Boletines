@@ -12,6 +12,7 @@ package Boletin1;
 /*1. Pedir los coeficientes de una ecuación se 2º grado, y muestre sus soluciones reales. Si no existen,
 debe indicarlo.*/
 public class Ejercicio1 {
+    //perra fea
     //Declaracion de las variables
     double a = 0, b = 0, c = 0, x1 = 0, x2 = 0;
     
